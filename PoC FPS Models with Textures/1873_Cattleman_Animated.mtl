@@ -1,0 +1,65 @@
+# Blender 3.1.0 MTL File: '1873_Cattleman_Animated.blend'
+# www.blender.org
+
+newmtl Cattleman:Brass1
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Ammo\Brass.002_Roughness.png
+map_refl  Painter Textures\Revolver Ammo\Brass.002_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Ammo\Brass.002_Normal_OpenGL.png
+
+newmtl Cattleman:Lead1
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Metal
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.005515 0.000000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver\Metal_Roughness.png
+map_refl  Painter Textures\Revolver\Metal_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver\Metal_Normal_OpenGL.png
+
+newmtl Cattleman:Wood
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.000450
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver\Wood_Roughness.png
+map_refl  Painter Textures\Revolver\Wood_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver\Wood_Normal_OpenGL.png
+
+newmtl GunArmRig2:lambert2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  ..\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_BaseColor.png
+map_Ns  ..\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_Roughness.png
+map_refl  ..\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_Metallic.png
+map_Bump  -bm 1.000000 ..\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_Normal.png

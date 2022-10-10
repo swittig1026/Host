@@ -1,0 +1,129 @@
+# Blender 3.1.0 MTL File: 'Arm_Strap_Textured.blend'
+# www.blender.org
+
+newmtl Brass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Ammo\Brass.002_Roughness.png
+map_refl  Painter Textures\Revolver Ammo\Brass.002_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Ammo\Brass.002_Normal_OpenGL.png
+
+newmtl Buckle_Metal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Arm Strap\Buckle_Metal_Roughness.png
+map_refl  Painter Textures\Arm Strap\Buckle_Metal_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Arm Strap\Buckle_Metal_Normal_OpenGL.png
+
+newmtl Clip_Metal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Ammo\Clip Metal.002_Roughness.png
+map_refl  Painter Textures\Revolver Ammo\Clip Metal.002_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Ammo\Clip Metal.002_Normal_OpenGL.png
+
+newmtl Lead
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Ammo\Lead.002_Roughness.png
+map_refl  Painter Textures\Revolver Ammo\Lead.002_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Ammo\Lead.002_Normal_OpenGL.png
+
+newmtl Pouch_Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Pouches\Pouch_Material_Roughness.png
+map_refl  Painter Textures\Revolver Pouches\Pouch_Material_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Pouches\Pouch_Material_Normal_OpenGL.png
+
+newmtl Pouch_Metal
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Pouches\Pouch_Metal_Roughness.png
+map_refl  Painter Textures\Revolver Pouches\Pouch_Metal_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Pouches\Pouch_Metal_Normal_OpenGL.png
+
+newmtl Screw
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Revolver Pouches\Screw_Roughness.png
+map_refl  Painter Textures\Revolver Pouches\Screw_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Revolver Pouches\Screw_Normal_OpenGL.png
+
+newmtl Strap_Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Arm Strap\Strap_Material_Roughness.png
+map_refl  Painter Textures\Arm Strap\Buckle_Metal_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Arm Strap\Strap_Material_Normal_OpenGL.png
+
+newmtl Strap_Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  Painter Textures\Arm Strap\Strap_Material_Roughness.png
+map_refl  Painter Textures\Arm Strap\Buckle_Metal_Metallic.png
+map_Bump  -bm 1.000000 Painter Textures\Arm Strap\Strap_Material_Normal_OpenGL.png
+
+newmtl lambert1
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
