@@ -1,0 +1,162 @@
+# Blender 3.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Cattleman:Brass.006
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Brass.007
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Brass.008
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Brass.009
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Brass.010
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Brass1
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.350556 0.257476 0.096259
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Lead.006
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Lead.007
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Lead.008
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Lead.009
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Lead.010
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Lead1
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.105251 0.108120 0.178862
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Cattleman:Metal
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.005515 0.000000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  D:\3D Art\Host\Host Personal\Painter Textures\Revolver\Metal_Roughness.png
+map_refl  D:\3D Art\Host\Host Personal\Painter Textures\Revolver\Metal_Metallic.png
+map_Bump  -bm 1.000000 D:\3D Art\Host\Host Personal\Painter Textures\Revolver\Metal_Normal_OpenGL.png
+
+newmtl Cattleman:Wood
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.000450
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns  D:\3D Art\Host\Host Personal\Painter Textures\Revolver\Wood_Roughness.png
+map_refl  D:\3D Art\Host\Host Personal\Painter Textures\Revolver\Wood_Metallic.png
+map_Bump  -bm 1.000000 D:\3D Art\Host\Host Personal\Painter Textures\Revolver\Wood_Normal_OpenGL.png
+
+newmtl GunArmRig2:lambert2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd  D:\3D Art\Host\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_BaseColor.png
+map_Ns  D:\3D Art\Host\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_Roughness.png
+map_refl  D:\3D Art\Host\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_Metallic.png
+map_Bump  -bm 1.000000 D:\3D Art\Host\Host Art Repository\Host-Art-Asset-Network\Gun Arm Textures\Gun_Arm__LP_01_lambert1_Normal.png
